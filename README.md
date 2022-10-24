@@ -1,12 +1,12 @@
 # tiger-recognition
 
-# Disciplina: <br/>
+## Disciplina: <br/>
 Computação Gráfica
 
-# Professor: <br/>
+## Professor: <br/>
 Marcos Roberto dos Santos
 
-# Alunos:<br/>
+## Alunos:<br/>
 Eduardo Bido (1120757)<br/>
 Vitalino Pitt (1121407)
 
