@@ -1,16 +1,18 @@
 # tiger-recognition
 
-#Disciplina: 
+# Disciplina: <br/>
 Computação Gráfica
 
-#Professor: 
+# Professor: <br/>
 Marcos Roberto dos Santos
 
-#Alunos:
-Eduardo Bido (1120757)
+# Alunos:<br/>
+Eduardo Bido (1120757)<br/>
 Vitalino Pitt (1121407)
 
-##Descrição / Objetivo:
+<br/>
+
+## Descrição / Objetivo:
 A proposta desta atividade é criar uma IA para detectar/reconhecer tigres e a mesma está baseada em um DataSet com imagens positivas e negativas.  O trabalho foi baseado nas metodologias e conteúdos estudados em sala de aula e a escolha do tema (tigres) foi opção dos componentes do grupo.  
 Abaixo detalhes e explicação do solicitado.
 
