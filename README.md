@@ -1,8 +1,20 @@
 # tiger-recognition
 
-<br/>
+#Disciplina: 
+Computação Gráfica
 
-Projeto criado para...
+#Professor: 
+Marcos Roberto dos Santos
+
+#Alunos:
+Eduardo Bido (1120757)
+Vitalino Pitt (1121407)
+
+##Descrição / Objetivo:
+A proposta desta atividade é criar uma IA para detectar/reconhecer tigres e a mesma está baseada em um DataSet com imagens positivas e negativas.  O trabalho foi baseado nas metodologias e conteúdos estudados em sala de aula e a escolha do tema (tigres) foi opção dos componentes do grupo.  
+Abaixo detalhes e explicação do solicitado.
+
+<br/>
 
 Link Download Negativas - A pasta utilizada foi a mesma contida no OneDrive das aulas.
 
