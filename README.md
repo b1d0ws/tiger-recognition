@@ -10,7 +10,6 @@ Marcos Roberto dos Santos
 Eduardo Bido (1120757)  
 Vitalino Pitt (1121407)
 
-<br/>
 
 ### Descrição / Objetivo:
 A proposta desta atividade é criar uma IA para detectar/reconhecer tigres e a mesma está baseada em um DataSet com imagens positivas e negativas.  O trabalho foi baseado nas metodologias e conteúdos estudados em sala de aula e a escolha do tema (tigres) foi opção dos componentes do grupo.  
